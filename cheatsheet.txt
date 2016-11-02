@@ -1,0 +1,13 @@
+ls <directory name>:  List contents of a directory
+cd: Go home.
+cd <directory name>:  Change directory
+cd ..: Go up
+cat <file name>: View the contents of a file
+gedit <file name> &
+python -m SimpleHTTPServer - Start the development server
+
+git add <file name>
+git commit -m "Commit Comment"
+git push
+
+git clone --config="http.proxy=http://ryan2553:Soccer2020@192.168.2.1:8080" https://github.com/ryan2553-cmis/ryan2553-cmis-WD.git

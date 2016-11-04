@@ -1,0 +1,17 @@
+Enter the classroom
+Start the computer and log in
+log in to the wifi
+Log in to github
+Copy the clone command (git clone --config="http.proxy=http://ryan2553:Soccer2020@192.168.2.1:8080" https://github.com/ryan2553-cmis/ryan2553-cmis-WD.git) from my repository README file
+Open terminal and paste in the command
+view the contents of the computer by typing "ls"
+enter the repository folder by using the command- cd ryan2553-cmis-WD/ 
+create a text file by using the command- gedit
+click "save" when the gedit file opens
+name the document "file.txt" and save it
+edit/save the file
+After you have saved and closed the file, type the command "git add file.txt" in terminal
+then type "git commit -m "this a file that contains text"
+then type git push and input your git hub username/password when prompted (note that that it wont show you typing your password)
+Reload your repository page to make sure that everything worked
+Log off, shut down, and "leave class with a smile on your face".  

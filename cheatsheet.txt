@@ -19,9 +19,4 @@ get <filename> - download a file
 
 git clone --config="http.proxy=http://ryan2553:Soccer2020@192.168.2.1:8080" https://github.com/ryan2553-cmis/ryan2553-cmis-WD.git
 
-sftp username@cmis-hsteacher 
-ls - same as terminal
-cd - same as terminal
-prepend a command with ! to execute it on local
-put <filename> - upload a file
-get <filename> - download a file
+

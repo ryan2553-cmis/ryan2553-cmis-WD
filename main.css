@@ -1,0 +1,28 @@
+
+html{
+background-color:LightGrey
+}
+h1{
+	border-style: solid;
+	border-color:#8B0000;
+	font-family:fantasy;
+	color:DarkGray;
+	font-size:30px;
+	background-color:black
+}
+h2{
+	border-style: solid;
+	border-color:#8B0000;
+	font-family:arial;
+	color:black;
+	font-size:29px;
+	background-color:DarkGrey
+}
+p{
+	border-style: solid;
+	border-color:#8B0000;
+	font-family:arial;
+	color:black;
+	font-size:25px;
+	background-color:DarkGrey
+}

@@ -1,18 +1,37 @@
+/*background-color
+border
+font-family
+color
+font-size
+text-align
+letter-spacing
+
+http://www.w3schools.com/css/css3_gradients.asp
+*/ 
 
 html{
-background-color:LightGrey
+	background:linear-gradient(-90deg,navy,aqua);
+	background-color:LightGrey
 }
 h1{
 	border-style: solid;
 	border-color:#8B0000;
+	border-width:3px;
 	font-family:fantasy;
 	color:DarkGray;
 	font-size:30px;
-	background-color:black
+	background-color:black;
+	text-align:center;
+	text-decoration:underline;
+	letter-spacing:2px;
 }
 h2{
 	border-style: solid;
 	border-color:#8B0000;
+	border-bottom-style: dotted;
+	border-left-style:dotted;
+	border-right-style:dotted;
+	border-top-style:dotted; 
 	font-family:arial;
 	color:black;
 	font-size:29px;
@@ -25,4 +44,11 @@ p{
 	color:black;
 	font-size:25px;
 	background-color:DarkGrey
+
 }
+
+
+
+
+
+

@@ -5,13 +5,17 @@ color
 font-size
 text-align
 letter-spacing
-
-http://www.w3schools.com/css/css3_gradients.asp
+background
+border-radius
+padding
+width
+height
+Transform
 */ 
 
 html{
-	background:linear-gradient(-90deg,navy,aqua);
-	background-color:LightGrey
+	background-color:LightGrey;
+	background-image:url("https://cdn.pixabay.com/photo/2016/10/07/14/42/space-1721695__340.jpg");
 }
 h1{
 	border-style: solid;
@@ -24,6 +28,11 @@ h1{
 	text-align:center;
 	text-decoration:underline;
 	letter-spacing:2px;
+	border-radius: 25px;
+   	background: #DarkGrey;
+    	padding: 20px; 
+    	width: 950px;
+    	height: 50px; 
 }
 h2{
 	border-style: solid;
@@ -35,7 +44,12 @@ h2{
 	font-family:arial;
 	color:black;
 	font-size:29px;
-	background-color:DarkGrey
+	background-color:DarkGrey;
+	width:600px;
+    	text-align: center;
+	transform:translate(30%,10%);
+	
+ 
 }
 p{
 	border-style: solid;
@@ -43,9 +57,15 @@ p{
 	font-family:arial;
 	color:black;
 	font-size:25px;
-	background-color:DarkGrey
-
+	background-color:DarkGrey;
+	text-align:center;
+	width:500px;
+	margin-left:250px
+				
 }
+
+
+   	
 
 
 

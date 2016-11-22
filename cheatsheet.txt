@@ -10,7 +10,8 @@ git add <file name>
 git commit -m "Commit Comment"
 git push
 
-sftp username@cmis-hsteacher 
+sftp username@cmis-hsteacher
+cd public_html/ to get in to your repository
 ls - same as terminal
 cd - same as terminal
 prepend a command with ! to execute it on local

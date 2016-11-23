@@ -1,51 +1,42 @@
 
-h1{
-	border-bottom-style: dashed;
-	border-color:yellow;
-	border-width:3px;
-	color:yellow;
-	font-size:30px;
-	background-color:green;
-	text-align:left;
+header{
+	border-bottom: dashed 10px yellow;	
+	font-family:Impact, Charcoal, sans-serif;
+	background-color: red;
 	font-style:italic;
-	 
-}
-h2{
-	
-	font-family:arial;
-	color:yellow;
-	font-size:25px;
-	background-color:purple;
-    	text-align: left;
-}
-h3{
-	font-family:arial;
-	color:purple;
-	font-size:20px;
-	background-color:yellow;
-    	text-align: left;
-	border-top-style:dashed;
-}
-p1{
-	font-family:arial;
-	background-color:red;
-	font-size:15px;
-	color:blue;
-    	text-align: left;
-	border-bottom-style:dashed;
-	border-bottom-width:5px;
-	border-color:yellow;
-}
-p2{
-	font-family:arial;
-	color:blue;
-	font-size:15px;
-	text-align:left;
-}
-footer{
-	font-family:arial;
-	color:blue;
-	font-size:10px;
-	text-align:left;
 }
 
+main {
+	font-family:sans-serif;
+	border-left: groove 10px orange;
+	border-right: groove 10px orange;
+}
+
+footer{
+	border-right: solid 10px blue;
+	border-left: solid 10px red;
+	border-top: dotted 1px black;
+	color:white;
+}
+
+h1{
+	background-color:green;
+	border-bottom: dashed 5px yellow;
+	color:yellow;
+}
+
+h2{
+	background-color:purple;
+	color:yellow;
+	border-right:solid 20px yellow;
+}
+
+h3{
+	background-color:yellow;
+	color:purple;
+	border-top:dashed 2px purple;
+}
+
+p {
+	color:blue;
+}

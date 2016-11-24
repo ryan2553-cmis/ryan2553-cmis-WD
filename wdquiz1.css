@@ -1,0 +1,55 @@
+html{
+	background-color: LightPink;
+	border-left:dashed 20px red;
+	border-left-width:20px;
+}
+header{
+	border-bottom: dashed 30px red;
+	border-bottom-width: 20px;
+	background-color: LightBlue;
+}
+
+main {
+	font-family:sans-serif;
+	border-left: groove 10px yellow;
+	border-right: groove 10px yellow;
+	border-bottom: groove 10px yellow;
+	border-top: groove 10px yellow;
+}
+
+footer{
+	border-top: dotted 1px black;
+	border-right: solid 475px black;
+	font-size:20px;
+	border-bottom: solid 1px;
+}
+
+h1{
+	color:red;
+	text-decoration:underline;
+	border-bottom:solid 3px;
+	border-color: black;
+
+	
+}
+
+h2{
+	background-color:blue;
+	color:white;
+	
+}
+
+h3{
+	background-color:blue;
+	color:white;
+	border-right:solid 20px yellow;
+}
+h4{
+	border-right: groove 600px red;
+	border-left-width: 30px;
+	border-left: groove 20px red;
+}
+p {
+	color:blue;
+	border-top: dotted 3px green;
+}

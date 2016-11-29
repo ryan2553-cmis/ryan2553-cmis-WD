@@ -1,0 +1,38 @@
+/*border
+margin
+padding
+width
+height*/
+html{
+	background-color:LightGrey;
+}
+h1{
+	word-spacing:1.0vh;
+	border-style: solid;
+	border-color:DarkRed;
+	border-width:3px;
+	font-family:fantasy;
+	color:DarkGray;
+	font-size:30px;
+	background-color:black;
+	text-align:center;
+	text-decoration:underline;
+	letter-spacing:0.5vw;
+	border-radius: 25pt;
+   	background:black;
+    	padding: 20px; 
+    	width: 950px;
+    	height: 50px; 
+	text-transform:uppercase;
+	text-shadow:2px 2px #ff0000;
+	font-style:italic;
+	margin: 1px;
+}
+nav{
+	border
+	margin
+padding
+width
+height
+}
+

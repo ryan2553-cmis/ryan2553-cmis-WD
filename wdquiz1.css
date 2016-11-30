@@ -1,55 +1,47 @@
 html{
-	background-color: LightPink;
-	border-left:dashed 20px red;
-	border-left-width:20px;
+	font-size:8pt;
+	background-color:pink;	
 }
-header{
-	border-bottom: dashed 30px red;
-	border-bottom-width: 20px;
-	background-color: LightBlue;
+
+body{
+	border-left:red dotted 30px;
+}
+
+header {
+	background-color:lightblue;
+	font-family:arial;
+	text-decoration:underline;
+	border-bottom:red dotted 30px;
 }
 
 main {
-	font-family:sans-serif;
-	border-left: groove 10px yellow;
-	border-right: groove 10px yellow;
-	border-bottom: groove 10px yellow;
-	border-top: groove 10px yellow;
+	border:groove 5px yellow;
 }
 
-footer{
-	border-top: dotted 1px black;
-	border-right: solid 475px black;
-	font-size:20px;
-	border-bottom: solid 1px;
-}
+footer {
+	border-right:500px solid black;
+	border-bottom:1px solid black;
+	font-size:200%;
 
-h1{
+}
+h1 {
+	font-family:serif;
+	font-size:500%;
 	color:red;
-	text-decoration:underline;
-	border-bottom:solid 3px;
-	border-color: black;
-
-	
+	border-bottom:solid 5px black;
 }
-
-h2{
+h2, h3 {
 	background-color:blue;
 	color:white;
-	
 }
-
-h3{
-	background-color:blue;
-	color:white;
-	border-right:solid 20px yellow;
+h3 {
+	font-family:sans-serif;
 }
 h4{
-	border-right: groove 600px red;
-	border-left-width: 30px;
-	border-left: groove 20px red;
+	border-left:ridge red 30px;
+	border-right:groove red 800px;
 }
 p {
 	color:blue;
-	border-top: dotted 3px green;
+	border-top:dotted 2px green;
 }

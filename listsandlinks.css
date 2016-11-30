@@ -4,7 +4,7 @@ padding
 width
 height*/
 html{
-	background-color:LightGrey;
+	background-color:Aqua;
 }
 h1{
 	word-spacing:1.0vh;
@@ -28,11 +28,36 @@ h1{
 	font-style:italic;
 	margin: 1px;
 }
-nav{
-	border
-	margin
-padding
-width
-height
+nav ul{
+	border-style: solid;
+	margin: 5px;
+	padding-top:1px;
+	padding-bottom:1px;
+	padding-left: 1px;
+	padding-right:1px;
+	width:100px;
+	height:20px;
+}
+ol{
+	border-style: solid;
+	margin: 10px;
+	padding: 50px;
+	width: 600px;
+	height:250px
+}
+ul{
+	border-bottom-style: solid;
+	margin: 1px;
+	padding: 1cm;
+	width: 300px;
+	height:100px;
+}
+h2, h3{
+	margin: 1px;
+	border-bottom-style: solid;
+	border-color: blue;
+	padding:1px;
+	width: 1000px;
+	height:50px;
 }
 

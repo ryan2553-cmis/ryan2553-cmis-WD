@@ -1,0 +1,52 @@
+html{
+	background-color:red;
+	width: 600px;		
+}
+body{
+	background-color: white;
+	transform:translate(90%,10%);
+
+}
+
+body header{
+	background-color:blue;
+	color: yellow;
+	border-left: solid 50px;
+	font-family: impact, sans-serif;
+}
+body header p{
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+	
+}
+main {
+	width: 500px;
+	margin: 1cm;
+}
+
+footer {
+	background-color:blue;	
+	color: white;
+	margin: 1px;
+}
+h2 {
+
+	border-right: 100px solid green;
+
+}
+main p{
+	text-decoration: underline;
+}
+nav ul{
+	background-color:red;	
+	text-decoration: underline line-through;
+	padding:10px;
+}
+
+ol{
+	border:dotted 1px;
+	border-bottom: dotted 2px;
+}
+ul{
+	text-decoration: underline line-through;
+}

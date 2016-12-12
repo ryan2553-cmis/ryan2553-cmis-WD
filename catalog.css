@@ -2,8 +2,8 @@ html{
 	width: 15cm;
 	background-image:url("http://eskipaper.com/images/digital-wallpaper-11.jpg");
 	color: white;
-	border-right:groove Blue 10px;
-	border-left:groove Blue 10px;
+	border:groove Blue 10px;
+	margin: auto;
 }
 
 header{
@@ -12,18 +12,20 @@ header{
 	background-color: ;
 	padding: 10px;
 	text-align: center;
+	margin: 1cm;
 }
 
-nav ul{
-	list-style-position: inside;
-
+nav li a{
+	color: #fff;
 }
 main{
 	border-bottom: solid 2px;
 	height: 3000px;
+	margin: 19px;
+	border-top: solid 2px;
 }
 article p a{
-	background-color: #0ff;
+	color: #0ff;
 }
 main article {
 	font-family:sans-serif;
@@ -36,19 +38,48 @@ main article {
 }
 
 footer{
-
+	color:white;
+	text-align: left;
 }
 main p{
-	border-bottom: 2px solid;
 	padding: 5px;
+	text-align: center;
 }
 
 h3{
-	background-color:
-	color:
-	border:
+	text-align: center;
+	color:white;
 }
 
-p {
-	color:
+nav ul {
+	text-align: center;
+}
+main article img {
+   	display: block;
+	text-align: center;
+	margin: auto;
+	height:1000px;
+}
+h1, p, {
+	color:white;
+}
+
+h2{
+	color:white;
+	text-align: center;
+}
+a:visited {
+    color: Cyan;
+}
+a:hover {
+    color:white;
+}
+a:hover {
+    text-decoration: underline;
+}
+a{
+    background-color:DarkBlue;
+    padding:5px;
+    text-align: center; 
+    text-decoration: none;
 }
